@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </span>
 <div align="center">
   <a href="https://lovelysimon.github.io/">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E6%9C%9F%E5%BE%85%E4%BD%A0%E4%B8%8D%E5%B9%B8%E7%A6%8F)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E6%9C%9F%E5%BE%85%E4%BD%A0%E4%B8%8D%E5%B9%B8%E7%A6%8F" alt="Typing SVG" /></a>
   </a>
 </div>
 
