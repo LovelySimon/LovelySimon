@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
 <div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=期待你幸福&center=true&size=27" alt="Typing SVG" />
+  <a href="https://lovelysimon.github.io/">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E6%9C%9F%E5%BE%85%E4%BD%A0%E4%B8%8D%E5%B9%B8%E7%A6%8F)](https://git.io/typing-svg)
   </a>
 </div>
 
