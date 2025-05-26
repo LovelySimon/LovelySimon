@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovelySimon&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
-
+### 研究方向
+- 细粒度分类，烟丝识别
 ### 关于我
 - [个人博客](https://lovelysimon.github.io/)
 - [CSDN](https://blog.csdn.net/qq_56974632)
