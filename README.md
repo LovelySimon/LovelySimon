@@ -19,8 +19,5 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovelySimon&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
-  <a href="https://lovelysimon.github.io/">
-    <a href="https://lovelysimon.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E6%9C%9F%E5%BE%85%E4%BD%A0%E4%B8%8D%E5%B9%B8%E7%A6%8F" alt="Typing SVG" /></a>
-  </a>
 </div>
 
